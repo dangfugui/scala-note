@@ -1,4 +1,4 @@
-package demo;
+package i.demo
 
 /**
   * 的f(x)  在 a 到 b 的 累加和     ∑(a,b) f(x)
